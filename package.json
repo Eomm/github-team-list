@@ -1,0 +1,24 @@
+{
+  "name": "github-team-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manuel Spigolon <behemoth89@gmail.com> (https://github.com/Eomm)",
+  "funding": "https://github.com/Eomm/github-team-list?sponsor=1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eomm/github-team-list/issues"
+  },
+  "homepage": "https://github.com/Eomm/github-team-list#readme",
+  "dependencies": {
+    "@octokit/graphql": "^7.0.2",
+    "mdast-util-to-string": "^4.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
